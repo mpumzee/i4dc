@@ -35,7 +35,7 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
 }
 
 nav.navbar .quote-btn a {
-  color: #f71735;
+  color: #D8A13C;
   display: inline-block;
   font-size: 12px;
   font-weight: 600;
@@ -82,7 +82,7 @@ nav.bootsnav.navbar-sidebar.bg-dark ul.nav li.dropdown h6 {
 }
 
 .attr-nav ul.cart-list li.total a {
-  background: #f71735 none repeat scroll 0 0;
+  background: #D8A13C none repeat scroll 0 0;
   display: inline-block;
   font-weight: 600 !important;
   padding: 12px 15px;
@@ -90,7 +90,7 @@ nav.bootsnav.navbar-sidebar.bg-dark ul.nav li.dropdown h6 {
 }
 
 .attr-nav ul.cart-list li.total a:hover {
-  background: #f71735 none repeat scroll 0 0 !important;
+  background: #D8A13C none repeat scroll 0 0 !important;
   color: #ffffff !important;
 }
 
@@ -369,7 +369,7 @@ nav.navbar.attr-border .attr-nav::before {
 }
 
 .attr-nav > ul > li > a span.badge {
-  background-color: #f71735;
+  background-color: #D8A13C;
   color: #ffffff;
   height: 20px;
   line-height: 20px;
@@ -467,7 +467,7 @@ ul.cart-list > li.total > span {
 }
 
 .navbar.bg-dark .top-search {
-  background: #f71735 none repeat scroll 0 0;
+  background: #D8A13C none repeat scroll 0 0;
 }
 
 .top-search form {
@@ -618,7 +618,7 @@ body.on-side .body-overlay {
 }
 
 .navbar .side .widget li a:hover {
-  color: #f71735;
+  color: #D8A13C;
 }
 
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
@@ -642,7 +642,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .navbar .side .widget.social li a:hover {
-  background: #f71735 none repeat scroll 0 0;
+  background: #D8A13C none repeat scroll 0 0;
   color: #ffffff;
 }
 
@@ -718,7 +718,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   background: #f4f4f4 none repeat scroll 0 0;
   border: 1px solid #e7e7e7;
   border-radius: 5px;
-  color: #f71735;
+  color: #D8A13C;
   font-size: 20px;
   height: 50px;
   line-height: 48px;
@@ -747,7 +747,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .navbar .side .widget h4::after {
-  background: #f71735 none repeat scroll 0 0;
+  background: #D8A13C none repeat scroll 0 0;
   bottom: -2px;
   content: "";
   height: 2px;
@@ -777,7 +777,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .side .widget ul.link li a {
-  color: #f71735;
+  color: #D8A13C;
   display: block;
   font-weight: bold;
   letter-spacing: 1px;
@@ -822,7 +822,7 @@ nav.navbar.bootsnav .share ul > li > a {
 }
 
 nav.navbar.bootsnav .share.dark ul > li > a {
-  background-color: #f71735;
+  background-color: #D8A13C;
   color: #ffffff;
 }
 
@@ -831,7 +831,7 @@ nav.navbar.bootsnav.color-yellow .share.dark ul > li > a {
 }
 
 nav.navbar.bootsnav .share ul > li > a:hover {
-  color: #f71735;
+  color: #D8A13C;
 }
 
 nav.navbar.bootsnav.color-yellow .share ul > li > a:hover {
@@ -955,7 +955,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a.active {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.navbar.bootsnav.small-pad ul.nav > li > a {
@@ -991,7 +991,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li.active > a {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li.active > a {
@@ -1004,7 +1004,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav.active-full ul.nav > li > a.active,
     nav.navbar.bootsnav.active-full ul.nav > li > a:hover {
-    background: #f71735 none repeat scroll 0 0 !important;
+    background: #D8A13C none repeat scroll 0 0 !important;
     color: #ffffff;
   }
 
@@ -1018,7 +1018,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a:hover {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li > a:hover {
@@ -1098,7 +1098,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
@@ -1106,7 +1106,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
@@ -1198,7 +1198,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.navbar.bootsnav.color-yellow ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover {
@@ -1289,7 +1289,7 @@ nav.navbar.bootsnav {
       content: "";
       height: 3px;
       width: 80%;
-      background: #f71735;
+      background: #D8A13C;
   }
 
   nav.navbar.bootsnav.menu-center .container {
@@ -1501,7 +1501,7 @@ nav.navbar.bootsnav {
   }
 
   nav.bootsnav.navbar-sidebar ul.nav > li > a:hover {
-    color: #f71735;
+    color: #D8A13C;
   }
 
   nav.bootsnav.navbar-sidebar.color-yellow ul.nav > li > a:hover {
@@ -1781,7 +1781,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
     background-color: transparent !important;
-    color: #f71735 !important;
+    color: #D8A13C !important;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
@@ -2298,7 +2298,7 @@ nav.navbar.bootsnav {
 }
 
 .attr-nav.menu li:last-child a {
-  background: #f71735 none repeat scroll 0 0;
+  background: #D8A13C none repeat scroll 0 0;
   border-radius: 30px;
   color: #ffffff !important;
   padding: 5px 20px !important;
