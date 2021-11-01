@@ -5,7 +5,7 @@
 5. Domain
 6. Testimonials
 7. Should we put projects on blog?
-8. News feed
+8. News feed - fetch from blog
 
 Corrections
 ===========
